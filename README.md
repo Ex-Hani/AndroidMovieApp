@@ -1,2 +1,2 @@
 # AndroidMovieApp
-Android Movie App MVVM
+Android Movie App MVVM + Retrofit + Pagination + RxJava
